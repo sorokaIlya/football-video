@@ -1,0 +1,14 @@
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.play-btn{
+    display: flex;
+    background: none;
+    border: 1px solid #eee;
+    padding: 15px;
+    margin: 0 auto;
+    cursor: pointer;
+}
