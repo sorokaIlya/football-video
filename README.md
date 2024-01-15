@@ -1,6 +1,6 @@
-# Тестовое задание
+# Sprite on video 
 
-Реплизован на спрайтах Pixi.js
+Implement sprite on Pixi.js from JSON coordinates
 
 
 ## Start
